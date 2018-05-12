@@ -26,6 +26,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/5694
     wikipedia: http://fr.wikipedia.org/wiki/Jules_de_Goncourt
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/18055#Journal-des-Goncourt--Troisi-me-s-rie-troisi-me-volume-M-moires-de-la-vie-litt-raire
 gutenberg_bookshelf: FR Biographie, Mémoires, Journal intime, Correspondance
 gutenberg_issued: '2006-03-27'
 gutenberg_type: Text
